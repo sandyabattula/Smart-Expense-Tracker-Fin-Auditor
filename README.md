@@ -154,34 +154,38 @@ Transactions are automatically categorized using keyword-based pattern matching.
 ---
 
 ## 📸 Output Screenshots
-### Project Execution
+
+### 1. Project Execution
 ![Project Execution](./proooo/ter.PNG)
-### Register & Sign in
+
+### 2. Register & Sign in
 
 ![Register & Sign in](./proooo/r.PNG) ![Register & Sign in](./proooo/s.PNG)
 
-### Dashboard
+
+### 3. Dashboard
 
 ![Dashboard](./proooo/d.PNG) ![Dashboard](./proooo/ud.PNG)
 
-### Budget Management
+
+### 4. Budget Management
 
 ![Budget Management](./proooo/b&f.PNG) ![Budget Management](./proooo/b&fp.PNG)
 ![Budget Management](./proooo/bp.PNG) ![Budget Management](./proooo/sb.PNG)
 
-### Analytics Dashboard
+### 5. Analytics Dashboard
 
 ![Analytics](./proooo/a.PNG)
 
-### Transaction Management
+### 6. Transaction Management
 
 ![Transactions](./proooo/th.PNG) ![Transactions](./proooo/t.PNG)
 
-### PDF & CSV Report Export
+### 7. PDF & CSV Report Export
 
 ![PDF Export](./proooo/pdf.PNG) ![PDF Export](./proooo/csvex.PNG)
 
-### Summary
+### 8. Summary
 
 ![Summary](./proooo/ss.PNG)
 
