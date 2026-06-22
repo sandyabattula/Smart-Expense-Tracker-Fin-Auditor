@@ -153,39 +153,44 @@ Transactions are automatically categorized using keyword-based pattern matching.
 
 ---
 
-## 📸 Screenshots
+## 📸 Output Screenshots
+### Project Execution
+![Project Execution](./proooo/ter.PNG)
+### Register & Sign in
+
+![Register & Sign in](./proooo/r.PNG) ![Register & Sign in](./proooo/s.PNG)
 
 ### Dashboard
 
-![Dashboard](./proooo/a.PNG)
+![Dashboard](./proooo/d.PNG) ![Dashboard](./proooo/ud.PNG)
 
 ### Budget Management
 
-![Budget Management](./proooo/bp.PNG)
+![Budget Management](./proooo/b&f.PNG) ![Budget Management](./proooo/b&fp.PNG)
+![Budget Management](./proooo/bp.PNG) ![Budget Management](./proooo/sb.PNG)
 
 ### Analytics Dashboard
 
-![Analytics](./proooo/d.PNG)
+![Analytics](./proooo/a.PNG)
 
 ### Transaction Management
 
-![Transactions](./proooo/t.PNG)
+![Transactions](./proooo/th.PNG) ![Transactions](./proooo/t.PNG)
 
-### PDF Report Export
+### PDF & CSV Report Export
 
-![PDF Export](./proooo/pdf.PNG)
+![PDF Export](./proooo/pdf.PNG) ![PDF Export](./proooo/csvex.PNG)
+
+### Summary
+
+![Summary](./proooo/ss.PNG)
 
 ---
 
 ## 🔮 Future Enhancements
 
-- AI Budget Prediction
 - Expense Recommendation Engine
-- Cloud Synchronization
-- OCR Receipt Scanning
-- Voice Expense Entry
 - Multi-Device Access
-- Investment Portfolio Tracking
 - Advanced Financial Forecasting
 
 ---
