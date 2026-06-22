@@ -126,16 +126,7 @@ src/
 
 ---
 
-## 💾 Data Storage Architecture
-
-| Data | Storage Key |
-|--------|-------------|
-| User Accounts | fa_users_v1 |
-| Active Session | fa_session_v1 |
-| Transactions | fa_tx_{userId} |
-| Budgets | fa_budget_{userId} |
-
-### Advantages
+## Advantages
 
 - No Database Required
 - Offline Access
@@ -145,7 +136,7 @@ src/
 
 ---
 
-## 🤖 Smart Auto-Categorization
+## Smart Auto-Categorization
 
 Transactions are automatically categorized using keyword-based pattern matching.
 
